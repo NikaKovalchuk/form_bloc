@@ -10,9 +10,8 @@ dependencies:
     sdk: flutter
   # form_bloc:
   #   path: ../packages/form_bloc
-  # flutter_form_bloc:
-  #   path: ../packages/flutter_form_bloc
-  flutter_form_bloc: ^0.19.0
+  flutter_form_bloc:
+    path: ../packages/flutter_form_bloc
   flutter_gradients: ^1.0.0+1
   flutter_syntax_view: ^1.0.0
   flash: ^1.2.0
