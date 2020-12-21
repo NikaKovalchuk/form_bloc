@@ -9,7 +9,9 @@ dependencies:
   flutter:
     sdk: flutter
   form_bloc:
-    path: ../packages/form_bloc
+    git:
+      url: git://github.com/NikaKovalchuk/form_bloc.git
+      path: packages/form_bloc
   flutter_form_bloc:
     path: ../packages/flutter_form_bloc
   flutter_gradients: ^1.0.0+1
