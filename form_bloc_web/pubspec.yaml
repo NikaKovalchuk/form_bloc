@@ -8,8 +8,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # form_bloc:
-  #   path: ../packages/form_bloc
+  form_bloc:
+    path: ../packages/form_bloc
   flutter_form_bloc:
     path: ../packages/flutter_form_bloc
   flutter_gradients: ^1.0.0+1
