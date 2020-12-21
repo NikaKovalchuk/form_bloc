@@ -24,11 +24,6 @@ dependencies:
   liquid_progress_indicator: ^0.3.2
   rxdart: ^0.24.1
 
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
 flutter:
   uses-material-design: true
   fonts:
